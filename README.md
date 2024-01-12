@@ -1,6 +1,7 @@
 # Assignment_Internshala
 # Employee Work Patterns Analyzer
 # Description
+This code is written in python language
 The Employee Work Patterns Analyzer is a Python script designed to analyze an Excel spreadsheet containing employee timecard data. The script identifies and reports on specific work patterns, including employees who have worked for 7 consecutive days, those with less than 10 hours between shifts but greater than 1 hour, and employees who have worked for more than 14 hours in a single shift.
 
 # Table of Contents
