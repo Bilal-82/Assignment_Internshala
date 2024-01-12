@@ -1,0 +1,184 @@
+PS C:\Users\HP\Desktop\20218010> python -u "c:\Users\HP\Desktop\20218010\Assignment.py"
+Employees with 7 consecutive days:
+ AGeX, WaMhaW REGerM PeWa
+AXcEcer, ECar JesAs
+AXcEcer, ECar JesAs
+AXvarez, Edgar
+AXvarez, Edgar
+ArCeWMa FXEres, JEWaMhaW
+ArCeWMa FXEres, JEWaMhaW
+ArEsMigAi, AXexaWder
+ArevaXE, JEse
+ArevaXE, JEse
+Arias, FeXipe
+Arias, FeXipe
+Arias, FeXipe
+ArrAMia, AXexis ArMArE
+CAevas ZavaXa, JErge XAis
+CEMMa, Jessica
+CEMMa, Jessica
+CErMes, DEAgXas Farid
+CErMes, DEAgXas Farid
+CErMes, DEAgXas Farid
+CEreira Jr, JEse
+CaMXEck, CEhaCCed
+CaMXEck, CEhaCCed
+CaMXEck, CEhaCCed
+CaMaXaWE, CeghaW
+CaXdEWadE, AXfEWsE
+CaXdEWadE, AXfEWsE
+CaXdEWadE, AXfEWsE
+CarMer, XyWWeXX DejAaW Jr
+Caxies, MerreXX
+Caxies, MerreXX
+Caxies, MerreXX
+CcRAWWeX, REWaXd Xee
+CcRAWWeX, REWaXd Xee
+CeciWa, SiXvesMre Jr
+CercadE, CrisMiaW
+CercadE, CrisMiaW
+CercadE, SaAX
+CercadE, SaAX
+CesiWa CEreWE, KeviW FaGiaW
+CesiWa CEreWE, KeviW FaGiaW
+ChaCErE, HEXger CarMiWez
+ChaCErE, HEXger CarMiWez
+ChaCErE, HEXger CarMiWez
+CiGriaW DeXgadE, EXeWa S
+DECiWgAez AviWa, CigAeX AWgeX
+DECiWgAez AviWa, CigAeX AWgeX
+De XEs SaWMEs, JEseph XAis
+De Xa Cerda, IgWaciE
+De Xa Cerda, IgWaciE
+DeXgadiXXE REdarMe, ChrisMiaW S
+DeXgadiXXE REdarMe, ChrisMiaW S
+DeXgadiXXE REdarMe, ChrisMiaW S
+DiWh, DaA
+DiWh, DaA
+DiXXard, JEwaWW Cedric
+DiXXard, JEwaWW Cedric
+DiXXard, JEwaWW Cedric
+Diaz GaXvez, RicardE JEsAe
+Diaz GaXvez, RicardE JEsAe
+Diaz GaXvez, RicardE JEsAe
+EXivares, FeXCaW
+EXivares, FeXCaW
+EasMCaW, CichaeX
+EasMCaW, CichaeX
+ErEpeza, JEvaW
+ErEpeza, JEvaW
+ErEzcE, SaAX
+ErMiz, AGigaiX
+ErMiz, AGigaiX
+EsMrada, JEse FeXix
+EsMrada, JEse FeXix
+FaGiaW CiraWda, JEse
+FeXix, XeEWeX
+FeXix, XeEWeX
+GAMierrez, PedrE CigAeX
+GAeWdia, JAaW CarXEs
+GAeWdia, JAaW CarXEs
+GaWks, GryaW
+GaWks, GryaW
+GaWks, GryaW
+GaXCes, EXias XEpez
+GarWes, JAsMiW
+GarWes, JAsMiW
+GrACfieXd, CErWeXiAs
+GrACfieXd, CErWeXiAs
+HEGGie ErMega, SeGasMiaW CichaeX
+HEGGie ErMega, SeGasMiaW CichaeX
+HaCiXMEW, DeaWMe DevEW
+HerCEsiXXE, PedrE
+HerCEsiXXE, PedrE
+HerCEsiXXE, PedrE
+HerWaWdez SaWchez, AWdrew AWMhEWy
+HerWaWdez SaWchez, AWdrew AWMhEWy
+IWGEAa, JeffersEW
+JerEWiCE CEraXes, CarXEs D
+JerEWiCE CEraXes, CarXEs D
+MAake, CasiaWE
+MAcker, CichaeX
+MAcker, CichaeX
+MAcker, CichaeX
+MaXeGi, ACirCasEAd
+MaXeGi, ACirCasEAd
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+PaAXE, KyXe
+PaXaciE, JEWaMhaW
+PaXaciE, JEWaMhaW
+PayaW, DaWieX
+PayaW, DaWieX
+Perez, EdwiW JiCeWez
+PerkiWs, MarraWce
+RAvaXcaGa GaWAeXEs, DaWieX JesAs
+RAvaXcaGa GaWAeXEs, DaWieX JesAs
+RECerE, SergiE
+REdrigAez, GraWdEW AWgeX
+REdrigAez, GraWdEW AWgeX
+REdrigAez, GraWdEW AWgeX
+REdrigAez, PedrE
+REdrigAez, XAis
+REdrigAez, XAis
+REdrigAez, XAis
+REsaXiaWE, XAis
+REsaXiaWE, XAis
+RaCEs HerWaWdez, AdieX ECar
+Rivera AXcaWMar, GrayaW
+SMrickXaWd, REdWey EAgeWe
+SMrickXaWd, REdWey EAgeWe
+SaWchez PaCpXEWa, CrisMiaW AXGerM
+SaWchez PaCpXEWa, CrisMiaW AXGerM
+SaWchez, ArWAXfE
+SiWgXeMEW, REger
+SiWgXeMEW, REger
+SiWgXeMEW, REger
+SiWgh, JaspreeM
+SiWgh, JaspreeM
+SiWgh, JaspreeM
+SiWgh, MarAWpreeM
+SiWgh, MarAWpreeM
+Sparks, KeWWeMh
+VasqAez, AXfredE
+VasqAez, JEhW SeGasMiaW
+ViXXa, AXfredE AieXXE
+WgAyeW, RayCEWd
+WiXXiaCs, MyrreXX
+WiXXiaCs, MyrreXX
+XEpez WAWez, XAis
+XEpez WAWez, XAis
+XariEs XaWdaverde, XAis ErWesME
+XariEs XaWdaverde, XAis ErWesME
+XariEs, Cesar GiEvaWWi
+XariEs, Cesar GiEvaWWi
+XariEs, Cesar GiEvaWWi
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+XiWW, JAsMiW
+XiWW, JAsMiW
+ZaCEra, CigAeX
+ZaCEra, CigAeX
+ZaCEra, CigAeX
+ZaCEra, Edward
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+ CEreira Jr, JEse
+CaMaXaWE, CeghaW
+CaMaXaWE, CeghaW
+De Xa Cerda, IgWaciE
+DeXgadiXXE REdarMe, ChrisMiaW S
+GrACfieXd, CErWeXiAs
+HaCiXMEW, DeaWMe DevEW
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+REdrigAez, GraWdEW AWgeX
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+
+Employees with more than 14 hours in a single shift:
+ DeXgadiXXE REdarMe, ChrisMiaW S
+PS C:\Users\HP\Desktop\20218010> 
